@@ -1,0 +1,131 @@
+2020-01-23
+zless 20200123:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep coronavirus -c -i
+zless 20200123:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w griepje -c -i
+zless 20200123:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w griepje -c -i
+zless 20200123:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w overdreven -c -i
+zless 20200123:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w overdreven -c -i
+zless 20200123:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w onderschat -c -i
+zless 20200123:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w onderschat -c -i
+zless 20200123:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w ernstig -c -i
+zless 20200123:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w ernstig -c -i
+
+2020-01-30
+zless 20200130:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep coronavirus -c -i
+zless 20200130:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w griepje -c -i
+zless 20200130:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w griepje -c -i
+zless 20200130:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w overdreven -c -i
+zless 20200130:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w overdreven -c -i
+zless 20200130:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w onderschat -c -i
+zless 20200130:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w onderschat -c -i
+zless 20200130:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w ernstig -c -i
+zless 20200130:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w ernstig -c -i
+
+2020-02-27
+zless 20200227:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w griepje -c -i
+zless 20200227:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w griepje -c -i
+zless 20200227:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w overdreven -c -i
+zless 20200227:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w overdreven -c -i
+zless 20200227:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w onderschat -c -i
+zless 20200227:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w onderschat -c -i
+zless 20200227:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w ernstig -c -i
+zless 20200227:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w ernstig -c -i
+
+2020-03-06
+zless 20200306:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w griepje -c -i
+zless 20200306:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w griepje -c -i
+zless 20200306:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w overdreven -c -i
+zless 20200306:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w overdreven -c -i
+zless 20200306:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w onderschat -c -i
+zless 20200306:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w onderschat -c -i
+zless 20200306:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w ernstig -c -i
+zless 20200306:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w ernstig -c -i
+
+2020-03-09
+zless 20200309:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w griepje -c -i
+zless 20200309:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w griepje -c -i
+zless 20200309:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w overdreven -c -i
+zless 20200309:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w overdreven -c -i
+zless 20200309:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w onderschat -c -i
+zless 20200309:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w onderschat -c -i
+zless 20200309:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w ernstig -c -i
+zless 20200309:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w ernstig -c -i
+
+2020-03-11
+zless 20200311:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w griepje -c -i
+zless 20200311:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w griepje -c -i
+zless 20200311:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w overdreven -c -i
+zless 20200311:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w overdreven -c -i
+zless 20200311:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w onderschat -c -i
+zless 20200311:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w onderschat -c -i
+zless 20200311:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w ernstig -c -i
+zless 20200311:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w ernstig -c -i
+
+2020-03-12
+zless 20200312:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w griepje -c -i
+zless 20200312:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w griepje -c -i
+zless 20200312:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w overdreven -c -i
+zless 20200312:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w overdreven -c -i
+zless 20200312:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w onderschat -c -i
+zless 20200312:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w onderschat -c -i
+zless 20200312:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w ernstig -c -i
+zless 20200312:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w ernstig -c -i
+
+2020-03-15
+zless 20200315:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w griepje -c -i
+zless 20200315:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w griepje -c -i
+zless 20200315:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w overdreven -c -i
+zless 20200315:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w overdreven -c -i
+zless 20200315:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w onderschat -c -i
+zless 20200315:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w onderschat -c -i
+zless 20200315:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w ernstig -c -i
+zless 20200315:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w ernstig -c -i
+
+2020-03-19
+zless 20200319:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w griepje -c -i
+zless 20200319:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w griepje -c -i
+zless 20200319:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w overdreven -c -i
+zless 20200319:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w overdreven -c -i
+zless 20200319:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w onderschat -c -i
+zless 20200319:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w onderschat -c -i
+zless 20200319:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w ernstig -c -i
+zless 20200319:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w ernstig -c -i
+
+2020-03-31
+zless 20200331:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w griepje -c -i
+zless 20200331:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w griepje -c -i
+zless 20200331:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w overdreven -c -i
+zless 20200331:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w overdreven -c -i
+zless 20200331:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w onderschat -c -i
+zless 20200331:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w onderschat -c -i
+zless 20200331:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w ernstig -c -i
+zless 20200331:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w ernstig -c -i
+
+2020-04-06
+zless 20200406:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w griepje -c -i
+zless 20200406:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w griepje -c -i
+zless 20200406:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w overdreven -c -i
+zless 20200406:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w overdreven -c -i
+zless 20200406:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w onderschat -c -i
+zless 20200406:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w onderschat -c -i
+zless 20200406:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w ernstig -c -i
+zless 20200406:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w ernstig -c -i
+
+2020-04-08
+zless 20200408:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w griepje -c -i
+zless 20200408:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w griepje -c -i
+zless 20200408:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w overdreven -c -i
+zless 20200408:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w overdreven -c -i
+zless 20200408:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w onderschat -c -i
+zless 20200408:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w onderschat -c -i
+zless 20200408:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w ernstig -c -i
+zless 20200408:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w ernstig -c -i
+
+2020-04-21
+zless 20200421:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w griepje -c -i
+zless 20200421:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w griepje -c -i
+zless 20200421:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w overdreven -c -i
+zless 20200421:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w overdreven -c -i
+zless 20200421:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w onderschat -c -i
+zless 20200421:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w onderschat -c -i
+zless 20200421:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w coronavirus | grep -w ernstig -c -i
+zless 20200421:*.gz | /net/corpora/twitter2/tools/tweet2tab date text | grep -v 'RT' | grep -w corona | grep -w ernstig -c -i
